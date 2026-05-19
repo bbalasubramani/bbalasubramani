@@ -1,5 +1,9 @@
 # Hi, I'm Balasubramani B 👋
 
+## 🌐 Portfolio
+
+**[👉 View My Live Portfolio](https://bbalasubramani.github.io/portfolio/)**
+
 Full Stack Developer based in Bengaluru, India — I build 
 and ship full-stack web apps with React, Node.js, 
 PostgreSQL, and Python. Three of my projects are live 
